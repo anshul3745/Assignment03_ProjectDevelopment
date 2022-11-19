@@ -1,6 +1,6 @@
 # Assignment03_ProjectDevelopment
 Purpose of this project:
-The main purpose of this project is to calculate the total amount of income tax that the user has to pay based the amont of income tax already paid by the user.
+The main purpose of this project is to calculate the total amount of income tax that the user has to pay based the amont of income tax already paid by the user. The application also lets the user enter the amount of taxes they have already paid so it only calculates the amount they owe. The application is made using basic HTML,CSS and JavaScript.
 
 
 Steps to build the project:
